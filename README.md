@@ -1,4 +1,4 @@
 prpg
 ====
 
-Programming a RPG (Basic)
+Programming an RPG (Basic)
